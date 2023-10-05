@@ -19,9 +19,9 @@ Contact Me: [Mail](s.kachniarz99@gmail.com) & [LinkedIn](www.linkedin.com/in/seb
 - DataCamp | Data Analyst with Power BI (_09.2023_)
 
 ## Education
-__Master's Degree in Big Data__     | 10.2021 - 10.2023 |  Warsaw School of Economics
+__Master's Degree in Big Data__ | 10.2021 - 10.2023 | Warsaw School of Economics
 
-__Bachelor's Degree in Management__ | 10.2018 - 06.2021 |  Warsaw University of Technology 
+__Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of Technology 
 
 ## Expericence
 **Dispute Arbiter | Miinto | 06.2022 - 12.2022**
