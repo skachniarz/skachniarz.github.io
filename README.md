@@ -14,19 +14,14 @@ Contact Me: [Mail](s.kachniarz99@gmail.com) & [LinkedIn](www.linkedin.com/in/seb
 
 ### Courses & Certificates
 - DataCamp | Data Analyst with Python (_01.2023_)
-- DataCamp |Data Analyst with SQL (_03.2023_)
+- DataCamp | Data Analyst with SQL (_03.2023_)
 - SGH | SAS Data Science Certification (_06.2023_)
 - DataCamp | Data Analyst with Power BI (_09.2023_)
 
 ## Education
-**Master's Degree in Big Data** 
-| 10.2021 - 10.2023 |  
-Warsaw School of Economics
+__Master's Degree in Big Data__     | 10.2021 - 10.2023 |  Warsaw School of Economics
 
-**Bachelor's Degree in Management**
-| 10.2018 - 06.2021 |  
-Warsaw University of Technology 
-*Specialization: Management in digital economy*
+__Bachelor's Degree in Management__ | 10.2018 - 06.2021 |  Warsaw University of Technology 
 
 ## Expericence
 **Dispute Arbiter | Miinto | 06.2022 - 12.2022**
