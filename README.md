@@ -40,6 +40,7 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 
 2. 
 ### Sql
-### Power BI
+### [Power BI](https://github.com/skachniarz/power_bi_projects)
+
 ### Excel
 ### R
