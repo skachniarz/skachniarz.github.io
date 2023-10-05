@@ -1,9 +1,9 @@
 # Data Analyst
 Native Polish, C1 English
 
-Contact: [Mail](s.kachniarz99@gmail.com) & [LinkedIn](www.linkedin.com/in/sebastian-kachniarz)
+Contact Me: [Mail](s.kachniarz99@gmail.com) & [LinkedIn](www.linkedin.com/in/sebastian-kachniarz)
 
-### Skills
+## Skills
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Pyplot)
 - SQL (Oracle, PostgreSQL)
 - Power BI (Power Query, DAX, M)
@@ -12,10 +12,13 @@ Contact: [Mail](s.kachniarz99@gmail.com) & [LinkedIn](www.linkedin.com/in/sebast
 - SAS basics (Enterprise Guide, Miner)
 - Basics of business process modelling (BPMN, UML)
 
-### Summary
-Thanks to studying at a technical university and my work experience I learned to be resourceful and accurate in the tasks carried out, as well as to quickly adapt to new working conditions. I studied extramural because I wanted to combine my studies with gaining work experience. I am looking for a job that will allow me to use the acquired knowledge in practice and to develop myself.  During my studies, I learned to work effectively in a group during various projects, in contrast to the situation at work, where I was held accountable for my tasks individually.
+### Courses & Certificates
+- DataCamp | Data Analyst with Python (_01.2023_)
+- DataCamp |Data Analyst with SQL (_03.2023_)
+- SGH | SAS Data Science Certification (_06.2023_)
+- DataCamp | Data Analyst with Power BI (_09.2023_)
 
-### Education
+## Education
 **Master's Degree in Big Data** 
 | 10.2021 - 10.2023 |  
 Warsaw School of Economics
@@ -25,7 +28,7 @@ Warsaw School of Economics
 Warsaw University of Technology 
 *Specialization: Management in digital economy*
 
-### Expericence
+## Expericence
 **Dispute Arbiter | Miinto | 06.2022 - 12.2022**
 - Mediating and resolving disputes between clients and partners
 - Creating training materials for junior and temporary arbiters
@@ -35,5 +38,9 @@ Warsaw University of Technology
 - Handling customers inquiries by e-mails, live-chats and phone calls
 - Supervision of reviews placed by customers (Google Review, Opineo)
 
-
-
+## Projects
+### Python
+### Sql
+### Power BI
+### Excel
+### R
