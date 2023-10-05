@@ -35,7 +35,7 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 
 ## Projects
 ### Python
-1. [Roll the dice](/Roll the dice.ipynb)
+1. [Roll the dice](https://github.com/skachniarz/portfolio//Roll the dice.ipynb)
 
 Fantastic Simulator
 
