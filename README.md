@@ -15,7 +15,7 @@ Contact: [Mail](s.kachniarz99@gmail.com) & [LinkedIn](www.linkedin.com/in/sebast
 ### Summary
 Thanks to studying at a technical university and my work experience I learned to be resourceful and accurate in the tasks carried out, as well as to quickly adapt to new working conditions. I studied extramural because I wanted to combine my studies with gaining work experience. I am looking for a job that will allow me to use the acquired knowledge in practice and to develop myself.  During my studies, I learned to work effectively in a group during various projects, in contrast to the situation at work, where I was held accountable for my tasks individually.
 
-###Education
+### Education
 **Master's Degree in Big Data** 
 | 10.2021 - 10.2023 |  
 Warsaw School of Economics
