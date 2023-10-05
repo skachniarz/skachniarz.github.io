@@ -34,10 +34,9 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 - Supervision of reviews placed by customers (Google Review, Opineo)
 
 ## Projects
-### Python
-1. [Roll the dice](https://github.com/skachniarz/roll_the_dice)
-
-Fantastic Simulator
+### [Python](https://github.com/skachniarz/python_projects)
+| 1. Roll the dice | Fantastic Simulator |
+| 2. xd | xd |
 
 2. 
 ### Sql
