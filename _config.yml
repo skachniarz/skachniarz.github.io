@@ -1,6 +1,6 @@
 title: Sebastian Kachniarz
 logo: /main/ja_circle.png
-description: Data analyst / scientist
-show_downloads: true
+#description: Data analyst / scientist
+show_downloads: false
 theme: jekyll-theme-minimal
 skin: dark
