@@ -19,6 +19,7 @@ Contact Me: [Mail](s.kachniarz99@gmail.com) & [LinkedIn](www.linkedin.com/in/seb
 - DataCamp | Data Analyst with Power BI (_09.2023_)
 
 ## Education
+
 __Master's Degree in Big Data__ | 10.2021 - 10.2023 | Warsaw School of Economics
 
 __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of Technology 
@@ -35,10 +36,12 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 
 ## Projects
 ### [Python](https://github.com/skachniarz/python_projects)
-| 1. Roll the dice | Fantastic Simulator |
-| 2. xd | xd |
 
-2. 
+1. __Roll the dice__ - It is a simple simulation of a random walk based on rolling a dice. In the simulation, we can change the number of dice throws in a single walk and change the number of random walks. The output is presented as a plot. (Numpy, Matplotlib)
+2. __Mini Project 1__ - It is a function that creates lists of all, even and odd numbers, picked randomly and describes which type of numbers is more frequent. It can also creates an output as a new file and it is repeatable. (Numpy, Matplotlib)
+3. __Mini Project 2__ - It is a simulator of a personal assistant who helps to calculate the savings within the calendar year. It sums savings and calculate the average amount saved per month.
+4. __Pandas excercises__ - Some pandas oriented exercises from my past job recruitment. 
+
 ### Sql
 ### [Power BI](https://github.com/skachniarz/power_bi_projects)
 
