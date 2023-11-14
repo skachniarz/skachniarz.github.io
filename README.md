@@ -1,4 +1,5 @@
 # Data Analyst
+#
 Native Polish, C1 English
 <p align="left">
   <a href="www.linkedin.com/in/sebastian-kachniarz">
@@ -44,15 +45,21 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 ## Projects
 ### [Python](https://github.com/skachniarz/python_projects)
 
-1. __Spotify API__ - This is a project that analyzes a selected playlist from Spotify, where the data is retrieved in real time thanks to the Spotify API, using pyspark. In the following, using sql and plotly, ranking tables and graphs of sample relationships are presented.
-2. __Monthly Salary Simulation__ -
-3. __Roll the dice__ - This is a simple simulation of a random walk based on rolling a dice. In the simulation, we can change the number of dice throws in a single walk and change the number of random walks. The output is presented as a plot. (Numpy, Matplotlib)
-4. __Mini Project 1__ - This is a function that creates lists of all, even and odd numbers, picked randomly and describes which type of numbers is more frequent. It can also creates an output as a new file and it is repeatable. (Numpy, Matplotlib)
-5. __Mini Project 2__ - This is a simulator of a personal assistant who helps to calculate the savings within the calendar year. It sums savings and calculate the average amount saved per month.
-6. __Pandas excercises__ - Some pandas oriented exercises from my past job recruitment. 
+1. __Spotify API__ - This is a project that analyzes a selected playlist from Spotify, where the data is retrieved in real time thanks to the Spotify API, using pyspark. In the following, using sql and plotly, ranking tables and graphs of sample relationships are presented. _(pyspark, pandas, numpy, plotly)_
+2. __Monthly Salary Simulation__ - This is a simulation of the monthly earnings of future employees of a certain company based on a linear regression model. The project is divided into parts related to statistical analysis, construction of the simulation model, interpretation of simulation results and sensitivity analysis. _(scikit-learn, numpy, pandas, matplotlib, seaborn)_
+3. __Roll the dice__ - This is a simple simulation of a random walk based on rolling a dice. In the simulation, we can change the number of dice throws in a single walk and change the number of random walks. The output is presented as a plot. _(Numpy, Matplotlib)_
+4. __Mini Project 1__ - This is a function that creates lists of all, even and odd numbers, picked randomly and describes which type of numbers is more frequent. It can also creates an output as a new file and it is repeatable. _(Numpy, Matplotlib)_
+5. __Mini Project 2__ - This is a simulator of a personal assistant who helps to calculate the savings within the calendar year. It sums savings and calculate the average amount saved per month. _(numpy, matplotlib)_
+6. __Pandas excercises__ - Some pandas oriented exercises from my past job recruitment. _(pandas)_
+#
 
-### Sql
+### [Sql](https://github.com/skachniarz/sql_projects)
+
+1. __Exercises sql__ - Solutions to exercises from my past job reqruitment using window functions, subqueries and etc.
+#
+
 ### [Power BI](https://github.com/skachniarz/power_bi_projects)
 
-### Excel
-### R
+1. __Empik__ - A dashboard on drugstore sales in two variants: through sales agents and through brick and mortar stores. It was created as part of a recruitment assignment.
+2. __Wake County Watchdog 2019 FY__ - A report for a fictitious company within a fiscal year, where successive departments and their expenditures are plotted against several variables. Moreover, we can delve into additional information regarding a particular department using drill function. 
+#
