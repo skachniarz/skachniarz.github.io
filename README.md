@@ -1,10 +1,12 @@
-# Data Analyst
-Native Polish, C1 English
+# Data Analyst / Scientist
+_Native Polish, C1 English_
 <p align="left">
-  <a href="www.linkedin.com/in/sebastian-kachniarz">
-    <img width="50px" title="Contact me via LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://www.linkedin.com/in/sebastian-kachniarz">
+    <img width="50px" title="Contact me via LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
   <a href="s.kachniarz99@gmail.com">
-    <img width="50px" title="Contact me via Gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
+    <img width="50px" title="Contact me via Gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a>
 </p>
 
 ## 🧰 Skills
@@ -21,6 +23,7 @@ Native Polish, C1 English
 - DataCamp | Data Analyst with SQL (_03.2023_)
 - SGH | SAS Data Science Certification (_06.2023_)
 - DataCamp | Data Analyst with Power BI (_09.2023_)
+---
 
 ## 📚 Education
 
@@ -37,6 +40,7 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 **Customer Care Agent | Miinto | 08.2021 – 05.2022**
 - Handling customers inquiries by e-mails, live-chats and phone calls
 - Supervision of reviews placed by customers (Google Review, Opineo)
+---
 
 ## Projects
 ### [Python](https://github.com/skachniarz/python_projects)
