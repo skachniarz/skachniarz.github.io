@@ -4,7 +4,7 @@ _Native Polish, C1 English_
   <a href="https://www.linkedin.com/in/sebastian-kachniarz">
     <img width="50px" title="Contact me via LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="s.kachniarz99@gmail.com">
+  <a href="mailto:s.kachniarz99@gmail.com">
     <img width="50px" title="Contact me via Gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a>
 </p>
