@@ -1,5 +1,4 @@
 # Data Analyst
-#
 Native Polish, C1 English
 <p align="left">
   <a href="www.linkedin.com/in/sebastian-kachniarz">
@@ -22,14 +21,12 @@ Native Polish, C1 English
 - DataCamp | Data Analyst with SQL (_03.2023_)
 - SGH | SAS Data Science Certification (_06.2023_)
 - DataCamp | Data Analyst with Power BI (_09.2023_)
-#
 
 ## 📚 Education
 
 __Master's Degree in Big Data__ | 10.2021 - 10.2023 | Warsaw School of Economics
 
 __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of Technology 
-#
 
 ## 🏄 Expericence
 **Dispute Arbiter | Miinto | 06.2022 - 12.2022**
@@ -40,7 +37,6 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 **Customer Care Agent | Miinto | 08.2021 – 05.2022**
 - Handling customers inquiries by e-mails, live-chats and phone calls
 - Supervision of reviews placed by customers (Google Review, Opineo)
-#
 
 ## Projects
 ### [Python](https://github.com/skachniarz/python_projects)
@@ -51,15 +47,12 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 4. __Mini Project 1__ - This is a function that creates lists of all, even and odd numbers, picked randomly and describes which type of numbers is more frequent. It can also creates an output as a new file and it is repeatable. _(Numpy, Matplotlib)_
 5. __Mini Project 2__ - This is a simulator of a personal assistant who helps to calculate the savings within the calendar year. It sums savings and calculate the average amount saved per month. _(numpy, matplotlib)_
 6. __Pandas excercises__ - Some pandas oriented exercises from my past job recruitment. _(pandas)_
-#
 
 ### [Sql](https://github.com/skachniarz/sql_projects)
 
 1. __Exercises sql__ - Solutions to exercises from my past job reqruitment using window functions, subqueries and etc.
-#
 
 ### [Power BI](https://github.com/skachniarz/power_bi_projects)
 
 1. __Empik__ - A dashboard on drugstore sales in two variants: through sales agents and through brick and mortar stores. It was created as part of a recruitment assignment.
 2. __Wake County Watchdog 2019 FY__ - A report for a fictitious company within a fiscal year, where successive departments and their expenditures are plotted against several variables. Moreover, we can delve into additional information regarding a particular department using drill function. 
-#
