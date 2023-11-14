@@ -23,7 +23,6 @@ _Native Polish, C1 English_
 - DataCamp | Data Analyst with SQL (_03.2023_)
 - SGH | SAS Data Science Certification (_06.2023_)
 - DataCamp | Data Analyst with Power BI (_09.2023_)
----
 
 ## 📚 Education
 
@@ -40,7 +39,6 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 **Customer Care Agent | Miinto | 08.2021 – 05.2022**
 - Handling customers inquiries by e-mails, live-chats and phone calls
 - Supervision of reviews placed by customers (Google Review, Opineo)
----
 
 ## Projects
 ### [Python](https://github.com/skachniarz/python_projects)
