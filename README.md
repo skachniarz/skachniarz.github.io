@@ -52,7 +52,7 @@ __Bachelor's Degree in Management__ | 10.2018 - 06.2021 | Warsaw University of T
 
 ### [Sql](https://github.com/skachniarz/sql_projects)
 
-1. __Exercises sql__ - Solutions to exercises from my past job reqruitment using window functions, subqueries and etc.
+1. __Exercises sql__ - Solutions to exercises from my past job reqruitment using window functions, subqueries, CTE and etc.
 
 ### [Power BI](https://github.com/skachniarz/power_bi_projects)
 
